@@ -1,4 +1,9 @@
-RallyAppGrid
-============
+MyGridApp
+=========================
 
-I want to be able to have a grid that shows a list of any Rally artifacts, and is a drag-drop source/receiver
+## Overview
+
+
+## License
+
+AppTemplate is released under the MIT license.  See the file [LICENSE](https://raw.github.com/RallyApps/AppTemplate/master/LICENSE) for the full text.
